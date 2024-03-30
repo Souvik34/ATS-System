@@ -45,8 +45,7 @@ To run the app locally, use the following command:
 streamlit run app.py
 The app will launch in your web browser. You can interact with the app by uploading a PDF file, entering the job description, and generating an evaluation based on your chosen prompt.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## Disclaimer
 This project is for educational purposes and showcases the integration of Streamlit, Google Generative AI, and PDF parsing to evaluate resumes. The evaluations provided are AI-generated and should not be used as the sole basis for making hiring decisions.
