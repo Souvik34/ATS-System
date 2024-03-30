@@ -1,6 +1,6 @@
 
 
-#ATS Resume Expert
+# ATS Resume Expert
 
 This repository contains the source code for a Streamlit app acting as an ATS (Applicant Tracking System) for evaluating resumes against a given job description. The app uses the Google Generative AI (Gemini-pro-vision) model to analyze the resume and generate a response based on the provided prompts.
 
