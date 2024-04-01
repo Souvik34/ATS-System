@@ -14,10 +14,10 @@ Before running the app locally, ensure that you have the following dependencies 
 - pillow
 - pdf2image
 - io
-Create a .env file with your Google API key:
+-Create a .env file with your Google API key:
 
 Copy code
-GOOGLE_API_KEY=<your_api_key>
+```GOOGLE_API_KEY=<your_api_key>```
 
 How to use the app
 ## - Upload your resume (PDF): 
@@ -41,8 +41,8 @@ This generates a percentage indicating the alignment of the candidate's profile 
 ## Running the app
 To run the app locally, use the following command:
 
-## Copy code
-streamlit run app.py
+ Copy code
+```$ streamlit run app.py```
 The app will launch in your web browser. You can interact with the app by uploading a PDF file, entering the job description, and generating an evaluation based on your chosen prompt.
 
 
